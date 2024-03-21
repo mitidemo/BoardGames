@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Video_Games.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+    <link href="Content/iconzoo.png" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <table class="master-table">
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr class="menu">
+            <td></td>
+            <td colspan="4">
+                <image src="Content/Game_Theory_Logo.png" width="150px"></image>
+            </td>
+            <td></td>
+        </tr>
+        <tr class="menu">
+            <td>
+                <a href="Login.aspx">הרשמה</a>
+            </td>
+            <td>
+                <a></a>
+                <a></a>
+            </td>
+            <td>
+                <a>עמוד תוכן 2</a>
+            </td>
+            <td>
+                <a href="About.aspx">על עצמי</a>
+            </td>
+            <td>
+                <a>המשך יבוא</a>
+            </td>
+            <td>
+                <a>המשך יבוא</a>
+            </td>
+        </tr>
+        <tr class="menu">
+            <td colspan="6">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </td>
+        </tr>
+        <tr class="menu">
+            <td colspan="6">
+                 <h6>יוצר האתר: עמית יניב. אימייל: amit29yaniv@gmail.com כל הזכויות שמורות</h6>
+            </td>
+           
+        </tr>
+    </table>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[Users]
+(
+	[Email] NVARCHAR(50) NOT NULL PRIMARY KEY,
+	[FirstName] NVARCHAR(50) NOT NULL,
+	[LastName] NVARCHAR(50) NOT NULL,
+	[YearOfBirth] INT NOT NULL CHECK (YearOfBirth >= 1904 and YearOfBirth<=2024)
+)

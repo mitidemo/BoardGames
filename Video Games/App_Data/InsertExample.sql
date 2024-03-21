@@ -1,0 +1,1 @@
+﻿SELECT MAX(YearOfBirth) From Users

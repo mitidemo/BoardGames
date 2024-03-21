@@ -1,0 +1,20 @@
+﻿body{
+    direction:rtl;
+    margin-left:30px;
+    margin-right:30px;
+}
+.menu{
+    text-align:center;
+    font-size:large;
+    font-weight:800;
+    background-color:#CCF7B4;
+}
+.master-table{
+    width:100%;
+    border:none;
+    border-collapse:collapse;
+}
+a, a:hover, a:focus, a:active{
+    text-decoration:none;
+    color: inherit;
+}

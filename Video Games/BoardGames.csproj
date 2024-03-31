@@ -73,6 +73,7 @@
       <DependentUpon>BoardGames.mdf</DependentUpon>
     </Content>
     <Content Include="ContentPage1.aspx" />
+    <Content Include="Content\four_in_a_row_logo.png" />
     <Content Include="Content\Game_Theory_Logo.png" />
     <Content Include="Content\iconzoo.png" />
     <Content Include="Content\logozoo.png" />

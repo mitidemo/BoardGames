@@ -24,7 +24,7 @@
         <tr class="menu">
             <td></td>
             <td colspan="4">
-                <image src="Content/Game_Theory_Logo.png" width="150px"></image>
+                <image src="Content/four_in_a_row_logo.png" width="350px"></image>
             </td>
             <td></td>
         </tr>
@@ -37,7 +37,7 @@
                 <a></a>
             </td>
             <td>
-                <a>עמוד תוכן 2</a>
+                <a href="ContentPage1.aspx">עמוד תוכן 1</a>
             </td>
             <td>
                 <a href="About.aspx">על עצמי</a>
@@ -59,9 +59,9 @@
         </tr>
         <tr class="menu">
             <td colspan="6">
-                 <h6>יוצר האתר: עמית יניב. אימייל: amit29yaniv@gmail.com כל הזכויות שמורות</h6>
+                <h6>יוצר האתר: עמית יניב. אימייל: amit29yaniv@gmail.com כל הזכויות שמורות</h6>
             </td>
-           
+
         </tr>
     </table>
 

@@ -77,6 +77,9 @@
     <Content Include="Content\Game_Theory_Logo.png" />
     <Content Include="Content\iconzoo.png" />
     <Content Include="Content\logozoo.png" />
+    <Content Include="Content\red.png" />
+    <Content Include="Content\yellow.png" />
+    <Content Include="JavaScript.js" />
     <Content Include="Login.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="style.css" />

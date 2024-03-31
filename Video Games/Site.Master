@@ -9,6 +9,7 @@
     <link href="Content/iconzoo.png" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <script src="JavaScript.js"></script>
 </head>
 <body>
 
